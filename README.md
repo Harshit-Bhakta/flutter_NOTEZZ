@@ -11,11 +11,11 @@ A Flutter application that allows users to Create, Read, Update and Delete notes
 
 ## INSTALLATION
 
-bash
+```bash
 git clone https://github.com/Harshit-Bhakta/flutter_NOTEZZ
 cd flutter_NOTEZZ
 flutter pub get
-
+```
 
 ## SCREENSHOTS
 
