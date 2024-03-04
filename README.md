@@ -1,5 +1,5 @@
-# GROCERIES_APP
-A Flutter application that allows users to order groceries online.
+# NOTEZZ
+A Flutter application that allows users to Create, Read, Update and Delete notes.
 
 
 
@@ -12,15 +12,12 @@ A Flutter application that allows users to order groceries online.
 ## INSTALLATION
 
 bash
-git clone https://github.com/AmanKRoy/GROCERY_APP
-cd GROCERY_APP
+git clone https://github.com/Harshit-Bhakta/flutter_NOTEZZ
+cd flutter_NOTEZZ
 flutter pub get
 
 
 ## SCREENSHOTS
-
-### MAIN WINDOW
-
 
 
 
@@ -35,4 +32,3 @@ flutter pub get
 - [FLUTTER](https://flutter.dev/)
 - [DART](https://dart.dev/)
 - [VS CODE](https://code.visualstudio.com/)
-- [MITCH KOKO](https://www.youtube.com/watch?v=yLtpMqvMgdY)
